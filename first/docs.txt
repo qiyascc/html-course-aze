@@ -9,19 +9,19 @@ ikincisi: Öz özünə bağlanan.
 
 HTML kodunu yazanda həmişə <html></html> etiketi ilə başlamaq lazımdır.
 
-Html öz içində iki yerə bölünür. head yəni üst hissə, istifadəçinin üeb səhifəsinə girəndə görmədiyi hissə. Bir də body - istifadəçinin gördüyü hissə. 
+Html öz içində iki yerə bölünür. head yəni üst hissə, istifadəçinin web səhifəsinə girəndə görmədiyi hissə. Bir də body - istifadəçinin gördüyü hissə. 
 
 Nəyin hara və necə yazılacağını da zamanla birlikdə öyrənəcəyik.
 
-Html kodumuzda həmişə işlətməli olduğumuz etiketlərdən biri də <title></title> etiketidi. Title etiketi üeb səhifələrinin adını göstərir.
+Html kodumuzda həmişə işlətməli olduğumuz etiketlərdən biri də <title></title> etiketidi. Title etiketi web səhifələrinin adını göstərir.
 
 Html kodunda rəy sətirləri belədir; <!-- -->
 Rəy sətirlərinin məqsədi kodu daha aydın hala gətirmək, səliqəyə salmaqdır. Rəy sətirlərini sadəcə kodu yazan və oxuyanlar görür.
 
-İstifadə etməli olduğumuz bir digər etiket də <!DOCTYPE html> dir. Məqsəd istifadə olunan html versiyasını broüserə bildirməkdir. 
+İstifadə etməli olduğumuz bir digər etiket də <!DOCTYPE html> dir. Məqsəd istifadə olunan html versiyasını browserə bildirməkdir. 
 Çünki mövcud bir neçə versiya var və bizim istifadə etdiyimiz, öyrəndiyimiz HTML5-dir.
 
-Əlavə olaraq html faylımızda neta charset mütləq olmalədır ki, 
+Əlavə olaraq html faylımızda meta charset mütləq olmalıdır ki, 
 Azərbaycan dilində istifadə etdiyimiz hərflərdə problem yaranmasın. head etiketi içinə <meta charset="UTF-8"> əlavə edirik.
 meta çox geniş bir etiketdi, yəni çox yerdə istifadə olunur. irəliləyən dərslərdə də bunu öyrənəcəyik.
 
