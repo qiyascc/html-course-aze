@@ -1,0 +1,4 @@
+HTML də hər etiketin öz görüntü səviyyəsi mövcuddur. HTML`də iki görüntü səviyyəsi var.
+inline və block. 
+- İnline olanlar sadəcə daxilindəki məzmun qədər yer tutur. 
+- Block olanlar durduğu sətiri tutur.
