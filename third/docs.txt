@@ -1,0 +1,36 @@
+HTML`də yazılar üçün etiketlər vardır. 
+Başlıq etiketləri;
+h1, h2, h3, h4, h5, h6. Bu etiketlərin bir birindən təməl fərqi ölçüləridir. 
+Əgər səhifədə ilk başlq varsa bu h1 etiketi ilə, onun altında fərqli bir başlqvarsa h2 etiketi ilə və eyni şəkildə onun altında da başlqlar varsa h3 etiketi ilə olmalıdır.
+
+H1
+|
+-- H2 
+   |
+    -- H3 
+       |
+        -- H4 
+           |
+            -- H5
+               |
+                -- H6 
+
+
+Paraqraflar üçün istifadə edəcəyimiz etiket isə p etiketidir. 
+P etiketi ilə paraqraf aça və yazıları daxil edə bilərsiniz. 
+
+Yazıları şəkilləndirmək üçün HTML`də bəzi etiketlər vardır. 
+
+Qalın yazı;
+B etiketi - yazını qalınlaşdırmaq üçündür.
+Strong etiketi - yazını qalınlaşdırmaq üçündür. Digərindən fərqi əsasən yazını vurğulamaq üçündür.
+
+İlatic/Əyri yazı;
+İ etiketi - yazını əymək, italic yazmaq üçündür.
+Em etiketi - yazını əymək, italic yazmaq üçündür. Digərindən fərqi əsasən yazını vurğulamaq üçündür.
+
+Vurğulanmış yazı:
+Mark etiketi - İstifadə edildikdə, yazının arxa fon rəngini dəyişdirərərk daha aydın, gözəçarpan hala gətirir.
+
+
+
