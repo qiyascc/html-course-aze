@@ -8,5 +8,5 @@ a etiketinin bəzi standart özəllikləri vardır.
 A etiketinin bəzi target atributu var ki, bu atributların müəuyyən dəyərləri vardır.
   _self - target artibutu istifadı olunmadığı halda staandart olaraq bu dəyər götürülür. Keçid mövcud səhifədə olur.
   _blank - Keçidi yeni səhifədə və ya tabda açır.
-  _parent - Keçidi əsas çərçivədə açır.
-  _top - Keçidi səhifənin tam mətnində açır.
+  _parent - Keçidi əsas çərçivədə açır. _self ilə eynidir.
+  _top - Keçidi səhifənin tam mətnində açır. _self ilə eynidir.
