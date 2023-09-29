@@ -1,0 +1,12 @@
+HTML`də yazılara link əlavə etmək üçün etiket mövcuddur. A etiketi. 
+a etiketinin bəzi standart özəllikləri vardır. 
+  - Ziyarət edilməmiş linkin altından xətt çəkilir və mavi rəngdə olur.
+  - Ziyarət edilən linkin altına xətt çəkilir və bənövşəyi rəngdə olur.
+  - Aktiv linkin altına xətt çəkilir və qırmızı olur.
+Örnək istifadə; <a href="https://www.texnopark.com/">TexnoPark</a>
+
+A etiketinin bəzi target atributu var ki, bu atributların müəuyyən dəyərləri vardır.
+  _self - target artibutu istifadı olunmadığı halda staandart olaraq bu dəyər götürülür. Keçid mövcud səhifədə olur.
+  _blank - Keçidi yeni səhifədə və ya tabda açır.
+  _parent - Keçidi əsas çərçivədə açır.
+  _top - Keçidi səhifənin tam mətnində açır.
