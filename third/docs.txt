@@ -32,5 +32,23 @@ Em etiketi - yazını əymək, italic yazmaq üçündür. Digərindən fərqi ə
 Vurğulanmış yazı:
 Mark etiketi - İstifadə edildikdə, yazının arxa fon rəngini dəyişdirərərk daha aydın, gözəçarpan hala gətirir.
 
+Kiçik yazı;
+Small etiketi - yazını kiçiltmək üçündür.
+
+Üzəri xətli yazı;
+Del etiketi - yazının üzərinə xətt çəkmək üçündür.
+
+Altı xətli yazı;
+ins etiketi - yazının altından xətt çəkmək üçündür.
+U etiketi - yazının altından xətt çəkmək üçündür.
+
+İndex/üst yazı;
+Sub etiketi - yazını ixdex`ə endirir.
+Sup - yazını ütə qaldırır.
+
+
+
+
+
 
 
