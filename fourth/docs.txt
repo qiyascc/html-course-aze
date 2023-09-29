@@ -1,0 +1,23 @@
+HTML`də siyahı yaratmaq üçün etiketlər mövcuddur.
+Siyahı yaradarkən istifadə olunan etiket ul, ol və li etiketləridir.
+Ul etiketi siyahı, li etiketi isə onun komponentləridir.
+ul
+ |
+  -- li
+  -- li
+  
+və
+  
+ol
+ |
+  -- li
+  -- li
+
+
+HTML`də siyahılara bənzər əlavə olaraq dialoq etiketləri vardır: dl, dt, dd etiketkəri.
+dl
+ |
+  -- dt (ilk dialoq)
+  -- dd (digər dialoq)
+  -- dt (ilk dialoq)
+  -- dd (digər dialoq)
