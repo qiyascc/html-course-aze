@@ -1,0 +1,9 @@
+HTML`də bir etiketə əlavə bilgi əlavə etmək üçün istifadə olunur. 
+<etiket name=""></etiket>
+
+Ən çox işlədilənlər:
+   - src
+   - alt
+   - href
+   - target
+

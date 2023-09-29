@@ -2,7 +2,8 @@ Html kodlarinda etiketlər vardır. Yəni tag dediklərimiz.
 İki cür etiket yəni tag növü var. 
 
 Birincisi: Açılıb bağlanan.
-<etiket_adı></etiket_adı>
+<etiket_adı>
+</etiket_adı>
 
 ikincisi: Öz özünə bağlanan.
 <etiket_adı/>
